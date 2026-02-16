@@ -66,10 +66,10 @@ The perceptron successfully learns a linear decision boundary on linearly separa
 
 ## Visualizations
 
-### Decision Boundary
+### AND Boundary (Linearly Separable)
 ![AND Boundary](images/AND_boundary.png)
 
-### Training Convergence
+### XOR Failure (Linearly inseparable)
 ![XOR Failure](images/XOR_Faliure.png)
 
 ---
