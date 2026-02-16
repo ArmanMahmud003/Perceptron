@@ -22,10 +22,14 @@ The implementation includes:
 
 ## Repository Structure
 
-Perceptron/
+Perceptron
 │
-├── Perceptron.ipynb # full implementation and experiments
+├── Perceptron.ipynb
+├── images
+│   ├── AND_boundary.png
+│   └── XOR_Faliure.png
 └── README.md
+
 
 ---
 
@@ -59,6 +63,19 @@ Training continues until either:
 ## Results
 
 The perceptron successfully learns a linear decision boundary on linearly separable data.
+
+---
+
+## Visualizations
+
+### Decision Boundary
+![Decision Boundary](images/AND_boundary.png)
+
+### Training Convergence
+![Training Convergence](images/XOR_Faliure.png)
+
+---
+
 
 Example outcomes:
 
