@@ -18,20 +18,18 @@ The implementation includes:
 - prediction function  
 - decision boundary visualization  
 
----
-
 ## Repository Structure
 
-Perceptron
+```
+Perceptron/
 │
 ├── Perceptron.ipynb
-├── images
+├── images/
 │   ├── AND_boundary.png
-│   └── XOR_Faliure.png
+│   └── XOR_Failure.png
 └── README.md
+```
 
-
----
 
 ## Algorithm
 
@@ -69,10 +67,10 @@ The perceptron successfully learns a linear decision boundary on linearly separa
 ## Visualizations
 
 ### Decision Boundary
-![Decision Boundary](images/AND_boundary.png)
+![AND Boundary](images/AND_boundary.png)
 
 ### Training Convergence
-![Training Convergence](images/XOR_Faliure.png)
+![XOR Failure](images/XOR_Faliure.png)
 
 ---
 
